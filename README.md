@@ -14,7 +14,7 @@
 <h1 align="center">Get in Touch! 📬</h1>
 <Br>
 <p align="center">
-<a href="https://https://www.linkedin.com/in/xiaoyu-zhu-riley/" target="blank"><img align="center" src="https://img.shields.io/badge/Arya Manjaramkar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="xiaoyu.zhu@mail.mcgill.ca" target="blank"><img align="center" src="https://img.shields.io/badge/aryagm01@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://github.com/RileyXiaoyu" target="blank"><img align="center" src="https://img.shields.io/badge/Aryagm-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://https://www.linkedin.com/in/xiaoyu-zhu-riley/" target="blank"><img align="center" src="https://img.shields.io/badge/Riley Zhu-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="xiaoyu.zhu@mail.mcgill.ca" target="blank"><img align="center" src="https://img.shields.io/badge/xiaoyu.zhu@mail.mcgill.ca-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://github.com/RileyXiaoyu" target="blank"><img align="center" src="https://img.shields.io/badge/Riley Zhu-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
   
 <Br>
@@ -47,14 +47,12 @@
   
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Aryagm&repo=California_Housing_Prices)](https://github.com/Aryagm/California_Housing_Prices)
 
+<Br>
+<hr>
+<Br>
+<h1>Thank You! 🤵 </h1>
+<Br>
 
-### Hi there 👋, welcome to Riley's personal page 
-
-Hello! I'm Riley Zhu, and my passion for data analysis was sparked during my undergraduate studies when I encountered the fascinating world of big data. My academic background in Fiannce & Analytics, coupled with hands-on experience as a data analyst on my preivous project & work, has equipped me with a strong foundation in financial forecasting modeling, machine learning and data visualization. Building upon this, I pursued further education at McGill University's Master of Management in Analytics program, where I honed my skills in data analytics and gained practical experience in applying them to some real-world problems.
-
-I'm proficient in various programming languages such as Python (including Pandas, NumPy, Matplotlib, Seaborn, Keras, Scikit-learn, Stats), R, SQL and SAS. Additionally, I'm well-versed in tools like PowerBI, Tableau, Excel (including Pivot Tables, VLOOKUP, VBA). My expertise extends to a range of machine learning models including Regression, Classification, Decision Trees & Random Forest, Gradient Boosting Machines, Neural Network (FNN, CNN, TFT) and Time Series Models (ARIMA, SARIMAX).
-
-You can explore my past projects in the repositories below. Let's embark on a journey of data exploration and discovery together!
 
 <!--
 **RileyXiaoyu/RileyXiaoyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
